@@ -1,0 +1,2 @@
+
+An implicit join is specified to perform a left outer join of a table with a field from another table; an explicit join is specified to join two tables. This implicit join syntax can be a useful substitute for explicit join syntax, or appear in the same query with explicit join syntax
